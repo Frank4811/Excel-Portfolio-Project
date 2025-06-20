@@ -82,10 +82,3 @@ You may choose to include screenshots of the dashboard and pivot table here in y
 
 This project demonstrates how Excel can be a powerful tool for data analysis without needing to write any code. It covers essential analyst skills: data cleaning, transformation, and interactive data visualization.
 
----
-
-## 📧 Contact
-
-> Created by **Jose Medina** as part of his Data Analyst Portfolio.  
-> [LinkedIn](https://www.linkedin.com/) *(insert your profile link)*  
-> [Email] *(optional if you'd like to include it)*
